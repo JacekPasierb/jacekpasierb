@@ -20,7 +20,17 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 
 - 🤝 Chętnie współpracuję przy projektach związanych z React czy Node.js. 
 
+## Czym się mogę pochwalić
 
+- [Strona Internetowa "Gabinet Kosmetyczny"](https://pokręcona.pl) 
+  Projekt komercyjny indywidualny / Rola UI/Design/Developer
+- Aplikacja "WALLET" - https://codeholics-wallet-app.netlify.app/register
+  Projekt zespołowy / Rola Backend Developer
+- Aplikacja "FILMONETKA" - https://jacekpasierb.github.io/filmonetka/
+  Projekt zespołowy / Rola Team Lead && Developer
+- Strona Lodziarni "ICECREAM" - https://joanna-jasinska.github.io/goit-page-template-2022-12-13/
+  Projekt zespołowy / Rola Developer
+  
 ## 📫 Jak się ze mną skontaktować
 
 - 📧 E-mail: jpasierb@proton.me

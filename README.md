@@ -10,7 +10,7 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 
 ## 🌱 Uczę się
 
-- 📚 Od września 2022 każdy wolny czas spędzam na kodowaniu. Wszsystko się zaczęło od kursu w GO-IT.
+- 📚 Od września 2022 każdy wolny czas spędzam na kodowaniu. Wszystko się zaczęło od kursu w GO-IT.
   Najpierw HTML/CSS, przez JavaScript, React po Node.js. Moje projekty można zobaczyć w repozytoriach,
   natomiast komercyjne "strona dla Gabinetu Kosmetycznego" i "Uwaga Smartfon" po skontaktowaniu sie prywatnie. 
 

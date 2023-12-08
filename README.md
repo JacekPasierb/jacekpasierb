@@ -1,16 +1,31 @@
-### Hi there 👋
+### Cześć! 👋
 
-<!--
-**JacekPasierb/jacekpasierb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem Jacek Pasierb, pasjonat technologii i programowania.
 
-Here are some ideas to get you started:
+## 🚀 Obecnie pracuję
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Aktualnie jestem zatrudniony jako Górnik w Lubelski Węgiel Bogdanka, gdzie pracuje na oddziale wydobywczym.
+- Po godzinach pracuje, nad projektami w branży IT. Oprócz projektów stworzonych na kursie, pracuje nad stroną dla Gabinetu Kosmetycznego,
+  napisaną w React. A także biorę udział w tworzeniu projektu fundacji pod tytułem "Uwaga Smartfon !".
+
+## 🌱 Uczę się
+
+- 📚 Od września 2022 każdy wolny czas spędzam na kodowaniu. Wszsystko się zaczęło od kursu w GO-IT.
+  Najpierw HTML/CSS, przez JavaScript, React po Node.js. Moje projekty można zobaczyć w repozytoriach,
+  natomiast komercyjne "strona dla Gabinetu Kosmetycznego" i "Uwaga Smartfon" po skontaktowaniu sie prywatnie. 
+
+## 👯 Poszukuję współpracy nad
+
+- 🤝 Chętnie współpracuję przy projektach związanych z React czy Node.js. 
+
+
+## 📫 Jak się ze mną skontaktować
+
+- 📧 E-mail: jpasierb@proton.me
+- 💼 LinkedIn: https://www.linkedin.com/in/jacek-pasierb
+
+## ⚡ Ciekawostka
+
+- 🌍 Po za Górnictwem i Programowaniem, wolny czas spędzam na wędkowaniu, graniu w gry na konsoli, oglądaniu filmów lub czytaniu książek.
+
+Dziękuję za odwiedzenie mojego profilu! Chętnie dowiem się więcej o Twoich projektach i pomysłach. 😊

@@ -1,6 +1,8 @@
 ### Cześć! 👋
 
 Jestem Jacek Pasierb, pasjonat technologii i programowania.
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacekPasierb&show_icons=true&theme=radical)
 
 ## 🚀 Obecnie pracuję
 

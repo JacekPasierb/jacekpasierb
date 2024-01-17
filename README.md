@@ -22,7 +22,7 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 
 ## Czym się mogę pochwalić
 - [Platforma do odkrywania i zarządzania przepisami kulinarnym](https://benevolent-peony-a173a3.netlify.app/) 
-  Projekt indywidualny / Rola FullStack
+  Projekt indywidualny / Rola FullStack { => Obecnie pracuje nad tym projektem <= }
 - [Strona Internetowa "Gabinet Kosmetyczny"](https://pokręcona.pl) 
   Projekt komercyjny indywidualny / Rola UI/Design/Developer
 - [Aplikacja "WALLET"](https://codeholics-wallet-app.netlify.app/register)

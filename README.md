@@ -21,8 +21,9 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 - 🤝 Chętnie współpracuję przy projektach związanych z React czy Node.js. 
 
 ## Czym się mogę pochwalić
-- [Platforma do odkrywania i zarządzania przepisami kulinarnym](https://benevolent-peony-a173a3.netlify.app/) 
-  Projekt indywidualny / Rola FullStack { => Obecnie pracuje nad tym projektem <= }
+   => Obecnie pracuje nad tym projektem So Yummy <= 
+- [Platforma do odkrywania i zarządzania przepisami kulinarnym "So Yummy"](https://benevolent-peony-a173a3.netlify.app/) 
+  Projekt indywidualny / Rola FullStack 
 - [Strona Internetowa "Gabinet Kosmetyczny"](https://pokręcona.pl) 
   Projekt komercyjny indywidualny / Rola UI/Design/Developer
 - [Aplikacja "WALLET"](https://codeholics-wallet-app.netlify.app/register)

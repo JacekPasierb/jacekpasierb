@@ -7,8 +7,8 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 ## 🚀 Obecnie pracuję
 
 - 💼 Aktualnie jestem zatrudniony jako Górnik w Lubelski Węgiel Bogdanka, gdzie pracuje na oddziale wydobywczym.
-- Po godzinach pracuje, nad projektami w branży IT. Oprócz projektów stworzonych na kursie, pracuje nad stroną dla Gabinetu Kosmetycznego,
-  napisaną w React. A także biorę udział w tworzeniu projektu fundacji pod tytułem "Uwaga Smartfon !".
+- Po godzinach pracuje, nad projektami w branży IT. Oprócz projektów stworzonych na kursie, opracowałem i stworzyłem stronę dla Gabinetu Kosmetycznego,
+  napisaną w React. Obecnie pracuje indywidualnie nad kolejnym projektem So Yummy - jest to platforma do odkrywania i zarządzania przepisami kulinarnymi z własnym backendem.
 
 ## 🌱 Uczę się
 

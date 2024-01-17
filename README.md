@@ -21,7 +21,6 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 - 🤝 Chętnie współpracuję przy projektach związanych z React czy Node.js. 
 
 ## Czym się mogę pochwalić
-- Platforma do odkrywania i zarządzania przepisami kulinarnym
 - [Platforma do odkrywania i zarządzania przepisami kulinarnym](https://benevolent-peony-a173a3.netlify.app/) 
   Projekt indywidualny / Rola FullStack
 - [Strona Internetowa "Gabinet Kosmetyczny"](https://pokręcona.pl) 

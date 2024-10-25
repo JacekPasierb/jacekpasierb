@@ -22,7 +22,7 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 
 ## Czym się mogę pochwalić
    => Obecnie pracuje nad tym projektem So Yummy <= 
-- [Platforma do odkrywania i zarządzania przepisami kulinarnym "So Yummy"](https://benevolent-peony-a173a3.netlify.app/) 
+- [Platforma do odkrywania i zarządzania przepisami kulinarnym "So Yummy"](https://so-yummy-jack.netlify.app/) 
   Projekt indywidualny / Rola FullStack 
 - [Strona Internetowa "Gabinet Kosmetyczny"](https://pokręcona.pl) 
   Projekt komercyjny indywidualny / Rola UI/Design/Developer

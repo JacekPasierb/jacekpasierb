@@ -22,6 +22,10 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 
 ## Czym się mogę pochwalić
    => Obecnie pracuje nad tym projektem So Yummy <= 
+- [Strona one-page postawiona na Bootstrap-ie ](https://jacekpasierb.github.io/sprzeda--naczep/) 
+  Projekt indywidualny / Rola Frontend
+- [Frontend CMS-a postawiony na Bootstrap-ie ](https://jacekpasierb.github.io/Bootstrap-CMS/index.html) 
+  Projekt indywidualny / Rola Frontend 
 - [Platforma do odkrywania i zarządzania przepisami kulinarnym "So Yummy"](https://so-yummy-jack.netlify.app/) 
   Projekt indywidualny / Rola FullStack 
 - [Strona Internetowa "Gabinet Kosmetyczny"](https://pokręcona.pl) 

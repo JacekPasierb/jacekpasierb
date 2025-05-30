@@ -6,22 +6,24 @@ Jestem Jacek Pasierb, pasjonat technologii i programowania.
 
 ## 🚀 Obecnie pracuję
 
-- 💼 Aktualnie jestem zatrudniony jako Górnik w Lubelski Węgiel Bogdanka, gdzie pracuje na oddziale wydobywczym.
-- Po godzinach pracuje, nad projektami w branży IT. Oprócz projektów stworzonych na kursie, opracowałem i stworzyłem stronę dla Gabinetu Kosmetycznego,
-  napisaną w React. Obecnie pracuje indywidualnie nad kolejnym projektem So Yummy - jest to platforma do odkrywania i zarządzania przepisami kulinarnymi z własnym backendem.
+- 💼 Na co dzień pracuję jako Górnik w Lubelskim Węglu Bogdanka.
+- 🧑‍💻 Po godzinach tworzę projekty w branży IT.
+  Zrealizowałem komercyjną stronę dla gabinetu kosmetycznego w React oraz zakończyłem projekt So Yummy – kompleksową aplikację kulinarną z własnym backendem Node.
+Obecnie rozwijam Generator Opisów – aplikację SaaS do tworzenia treści marketingowych z wykorzystaniem AI napisaną w NEXT.
 
 ## 🌱 Uczę się
 
-- 📚 Od września 2022 każdy wolny czas spędzam na kodowaniu. Wszystko się zaczęło od kursu w GO-IT.
-  Najpierw HTML/CSS, przez JavaScript, React po Node.js. Moje projekty można zobaczyć w repozytoriach,
-  natomiast komercyjne "strona dla Gabinetu Kosmetycznego" i "Uwaga Smartfon" po skontaktowaniu sie prywatnie. 
+- 📚  Od września 2022 roku regularnie rozwijam swoje umiejętności w wolnym czasie.
+Rozpocząłem naukę na kursie GO-IT – od HTML/CSS, przez JavaScript i React, po Node.js i Next.js.
+Projekty kursowe, indywidualne oraz komercyjne możesz zobaczyć w moim repozytorium lub po kontakcie bezpośrednim.
 
 ## 👯 Poszukuję współpracy nad
 
-- 🤝 Chętnie współpracuję przy projektach związanych z React czy Node.js. 
+- 🤝 Chętnie dołączę do projektu z React, Next.js lub Node.js. Interesują mnie też projekty SaaS i integracje z OpenAI API.
 
 ## Czym się mogę pochwalić
-   => Obecnie pracuje nad tym projektem So Yummy <= 
+- [Aplikacja do generowania treści marketingowych z wykorzystaniem OpenAI API.](https://github.com/JacekPasierb/generator-ogloszen/) 
+  Projekt indywidualny / Rola Full Stack Developer  
 - [Strona one-page postawiona na Bootstrap-ie ](https://jacekpasierb.github.io/sprzeda--naczep/) 
   Projekt indywidualny / Rola Frontend
 - [Frontend CMS-a postawiony na Bootstrap-ie ](https://jacekpasierb.github.io/Bootstrap-CMS/index.html) 

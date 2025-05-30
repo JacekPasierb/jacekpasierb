@@ -22,7 +22,7 @@ Projekty kursowe, indywidualne oraz komercyjne możesz zobaczyć w moim repozyto
 - 🤝 Chętnie dołączę do projektu z React, Next.js lub Node.js. Interesują mnie też projekty SaaS i integracje z OpenAI API.
 
 ## Czym się mogę pochwalić
-- [Aplikacja do generowania treści marketingowych z wykorzystaniem OpenAI API.](https://github.com/JacekPasierb/generator-ogloszen/) 
+- [Aplikacja do generowania treści marketingowych z wykorzystaniem OpenAI API.](https://generator-ogloszen.com/) 
   Projekt indywidualny / Rola Full Stack Developer  
 - [Strona one-page postawiona na Bootstrap-ie ](https://jacekpasierb.github.io/sprzeda--naczep/) 
   Projekt indywidualny / Rola Frontend
